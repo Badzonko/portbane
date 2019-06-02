@@ -84,6 +84,7 @@ header {
   url('heder.jpg');
   background-size: cover;
   background-position: center top;
+	background-attachment: fixed;
   width: 100%;
 }
 .down{
