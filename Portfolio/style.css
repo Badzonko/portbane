@@ -80,7 +80,7 @@ h3 {
 }
 
 header {
-  background: linear-gradient( rgba(194, 185, 176, 1.0), rgba(194, 185, 176, 0.90)), /* bottom, image */
+  background: linear-gradient( rgba(194, 185, 176, 1.0), rgba(194, 185, 176, 0.90)), 
   url('heder.jpg');
   background-size: cover;
   background-position: center top;
