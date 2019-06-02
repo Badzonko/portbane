@@ -204,8 +204,9 @@ header {
 }
 .contact {
   width: 100%;
-  background-color: #011833;
+  background-color:#c2b9b0 /*#011833*/;
   padding: 5% 0;
+	padding-bottom: 0px;
   margin-top: 5%;
   clear: both;
 }
